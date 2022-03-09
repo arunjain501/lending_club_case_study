@@ -1,17 +1,12 @@
 # Lending Club Case Study
 Assigment by Upgrad and IIIT-B
 
-``` 
 The case study focuses on EDA mainly, to understand which parameters are major to detect whether a customer will default loan or not. Pesented a PPT to illustrate the major parameter to consider while giving loans along their data distributions.
-
-```
-
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
